@@ -61,8 +61,12 @@ In the `PaymeInterfaceTest` class:
 3. **Special Case Handling**: If the object is a `BasePlusCommissionProgrammer`, the base salary is increased by 5%, and the updated payment amount is displayed.
 
 ---
+## Author
+👩‍💻 Alessandra Prunzel Kittlaus
 
+---
 ## Sample Output:
+
 ```Payment for Invoices and Programmers are processed polymorphically:
 
 invoice: 
@@ -98,5 +102,3 @@ Gross Sale: $1,200.00; Comission rate: $0.44; Base Salary: $720.00
 New base salary with 5% increase is: $756.00
 Payment due: $1,284.00 ```
 
-## Author
-👩‍💻 Alessandra Prunzel Kittlaus
