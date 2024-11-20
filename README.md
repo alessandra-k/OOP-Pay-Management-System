@@ -63,7 +63,7 @@ In the `PaymeInterfaceTest` class:
 ---
 
 ## Sample Output:
-Payment for Invoices and Programmers are processed polymorphically:
+```Payment for Invoices and Programmers are processed polymorphically:
 
 invoice: 
 part number: 22776 (brakes) 
@@ -96,7 +96,7 @@ Base-plus Commission Programmer: Alessandra Prunzel Kittlaus
 Social Security number: 102-34-5888
 Gross Sale: $1,200.00; Comission rate: $0.44; Base Salary: $720.00 
 New base salary with 5% increase is: $756.00
-Payment due: $1,284.00
+Payment due: $1,284.00 ```
 
 ## Author
 👩‍💻 Alessandra Prunzel Kittlaus
